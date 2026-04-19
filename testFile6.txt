@@ -1,1 +1,2 @@
+This is a new line being added from gitdemo oringinal folder
 This is a new file
